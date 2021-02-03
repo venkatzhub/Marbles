@@ -1,0 +1,14 @@
+{
+    "name": "Node.js",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "broadcomMFD.cobol-language-support",
+        "broadcomMFD.ccf",
+        "Zowe.vscode-extension-for-zowe",
+        "broadcomMFD.bridge-for-git-explorer"
+    ],
+    "remoteUser": "node"
+}
